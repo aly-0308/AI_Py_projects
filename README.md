@@ -4,6 +4,7 @@
 Welcome to the Artificial Intelligence Projects repository! This repository contains a collection of Python projects focusing on various subfields of Artificial Intelligence (AI). Each project demonstrates practical implementations of AI techniques and algorithms using Python programming language.
 
 ## Project Categories
+![artificial intelligence subfields]([image_url](https://github.com/aly-0308/AI_Py_projects/blob/main/AI%20subFs.jpg?raw=true))
 The projects in this repository are categorized based on the main subfields of AI:
 
 - **NLP** - Natural Language Processing: It deals with the interaction between computers and humans through natural language.
