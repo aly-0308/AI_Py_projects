@@ -1,4 +1,4 @@
-# 🤖 Weather Chatbot: A Rule-Based Conversational AI
+# 🤖 Weather Chatbot: A Rule-Based Chatbot
 
 This project is a simple yet effective rule-based conversational AI designed to provide weather information. It's built entirely in Python and uses the `spaCy` library for basic Natural Language Understanding (NLU). The chatbot can understand requests for various weather conditions, identify city names, and handle conversations where information is missing.
 
